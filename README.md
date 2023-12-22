@@ -9,3 +9,22 @@
   <a href="https://github.com/NadavIs56/AI_Technology_Resources_Hub/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/NadavIs56/AI_Technology_Resources_Hub"></a>
 </p>
 <br><br>
+
+
+## Contents
+- [Deep Fake Resources](#deep-fake-resources)
+- [AI Art Resources](#ai-art-resources)
+- [Face Swap Resources](#face-swap-resources)
+
+<br>
+
+### Deep Fake Resources
+A collection of open-source projects and code related to deep fake technology.
+
+| Repository Name | Description | Link |
+| --------------- | ----------- | ---- |
+| faceswap   | Deepfakes Software For All | [GitHub](https://github.com/deepfakes/faceswap) |
+| DeepFakeRepo2   | Brief overview of DeepFakeRepo2's capabilities and use cases. | [GitHub](#) |
+| ...             | ...         | ...  |
+
+<br>
