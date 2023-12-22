@@ -48,6 +48,7 @@ A collection of open-source projects and code related to AI art technology.
 | MidJourney-Styles-and-Keywords-Reference | A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more! | [GitHub](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference?tab=readme-ov-file) |
 | Auto-Photoshop-StableDiffusion-Plugin | A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend. | [GitHub](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) |
 | automatic | SD.Next: Advanced Implementation of Stable Diffusion | [GitHub](https://github.com/vladmandic/automatic) |
+| Fooocus | Focus on prompting and generating | [GitHub](https://github.com/lllyasviel/Fooocus) |
 
 <br>
 
