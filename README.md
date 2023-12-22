@@ -5,8 +5,8 @@
 ##  <p align ="center" height="40px" width="40px"> 🚧 Repository Under Development 🚧 </p>
 ####  <p align ="center" height="40px" width="40px"> Note to Visitors: <br> Welcome to AI_Technology_Resources_Hub! Please be aware that this repository is currently under active development and is being continuously updated with new resources and information. Some sections may be incomplete or subject to change. We appreciate your interest and encourage you to check back regularly for new additions and updates. <br> Feel free to contribute or suggest improvements by opening issues or submitting pull requests. Your input and collaboration are highly valued as we work towards building a comprehensive and valuable resource! <br> Thank you for your understanding and support! </p>
 
+<br>
 
-<br><br>
 ### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
 <p align="center">
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> 
@@ -19,6 +19,7 @@
 - [Deep Fake Resources](#deep-fake-resources)
 - [AI Art Resources](#ai-art-resources)
 - [Face Swap Resources](#face-swap-resources)
+- [Papers](#papers)
 
 <br>
 
@@ -31,7 +32,6 @@ A collection of open-source projects and code related to deep fake technology.
 | DeepFaceLab | DeepFaceLab is the leading software for creating deepfakes. | [GitHub](https://github.com/iperov/DeepFaceLab) |
 | DeepNude-an-Image-to-Image-technology | DeepNude's algorithm and general image generation theory and practice research | [GitHub](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) |
 | SimSwap | An arbitrary face-swapping framework on images and videos with one single trained model! | [GitHub](https://github.com/neuralchen/SimSwap) |
-
 
 <br>
 
@@ -47,7 +47,6 @@ A collection of open-source projects and code related to AI art technology.
 | Auto-Photoshop-StableDiffusion-Plugin | A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend. | [GitHub](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) |
 | automatic | SD.Next: Advanced Implementation of Stable Diffusion | [GitHub](https://github.com/vladmandic/automatic) |
 
-
 <br>
 
 # <ins> Tutorials </ins>
@@ -59,6 +58,15 @@ A collection of open-source projects, code, and tutorials.
 | stable-diffusion-videos | Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts | [GitHub](https://github.com/nateraw/stable-diffusion-videos) |
 
 
+<br>
+
+# <ins> Papers </ins>
+A collection of deep fake and ai-art papers.
+
+| Repository Name | Link |
+| --------------- | ---- |
+| DeepFakes: a New Threat to Face Recognition? Assessment and Detection | [Arxiv](https://arxiv.org/pdf/1812.08685.pdf) |
+| Deep Learning for Deepfakes Creation and Detection: A Survey | [Arxiv](https://arxiv.org/pdf/1812.08685.pdf) |
 
 
 <br>
