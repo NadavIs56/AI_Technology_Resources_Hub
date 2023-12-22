@@ -21,7 +21,7 @@ Thank you for your understanding and support! </p>
 <br><br>
 
 
-## Contents
+# <ins> Contents </ins>
 - [Deep Fake Resources](#deep-fake-resources)
 - [AI Art Resources](#ai-art-resources)
 - [Face Swap Resources](#face-swap-resources)
