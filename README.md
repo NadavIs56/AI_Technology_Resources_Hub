@@ -51,7 +51,7 @@ A collection of open-source projects and code related to AI art technology.
 <br>
 
 # Tutorials
-A collection of open-source projects, code, and tutorials.
+A collection of open-source projects and code tutorials.
 
 | Repository Name | Description | Link |
 | --------------- | ----------- | ---- |
