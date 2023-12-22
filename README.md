@@ -23,8 +23,16 @@ A collection of open-source projects and code related to deep fake technology.
 
 | Repository Name | Description | Link |
 | --------------- | ----------- | ---- |
-| faceswap   | Deepfakes Software For All | [GitHub](https://github.com/deepfakes/faceswap) |
-| DeepFakeRepo2   | Brief overview of DeepFakeRepo2's capabilities and use cases. | [GitHub](#) |
-| ...             | ...         | ...  |
+| faceswap | Deepfakes Software For All | [GitHub](https://github.com/deepfakes/faceswap) |
+| DeepFaceLab | DeepFaceLab is the leading software for creating deepfakes. | [GitHub](https://github.com/iperov/DeepFaceLab) |
+| DeepNude-an-Image-to-Image-technology | DeepNude's algorithm and general image generation theory and practice research | [GitHub](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) |
 
 <br>
+
+### AI Art Resources
+A collection of open-source projects and code related to AI art technology.
+
+| Repository Name | Description | Link |
+| --------------- | ----------- | ---- |
+| stable-diffusion-webui | Stable Diffusion web UI | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) |
+
