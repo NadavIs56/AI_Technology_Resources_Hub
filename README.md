@@ -26,9 +26,9 @@ Thank you for your understanding and support! </p>
 - [AI Art Resources](#ai-art-resources)
 - [Face Swap Resources](#face-swap-resources)
 
-<br>
+<br><br>
 
-### Deep Fake Resources
+## <ins> Deep Fake Resources </ins>
 A collection of open-source projects and code related to deep fake technology.
 
 | Repository Name | Description | Link |
@@ -41,7 +41,7 @@ A collection of open-source projects and code related to deep fake technology.
 
 <br>
 
-### AI Art Resources
+## <ins> AI Art Resources </ins>
 A collection of open-source projects and code related to AI art technology.
 
 | Repository Name | Description | Link |
@@ -56,16 +56,13 @@ A collection of open-source projects and code related to AI art technology.
 
 <br>
 
-### Tutorials
+## <ins> Tutorials </ins>
 A collection of open-source projects, code, and tutorials.
 
 | Repository Name | Description | Link |
 | --------------- | ----------- | ---- |
 | Stable-Diffusion | Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney | [GitHub](https://github.com/FurkanGozukara/Stable-Diffusion) |
 | stable-diffusion-videos | Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts | [GitHub](https://github.com/nateraw/stable-diffusion-videos) |
-
-
-
 
 
 
