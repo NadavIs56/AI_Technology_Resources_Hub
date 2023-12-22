@@ -69,6 +69,8 @@ A collection of deep fake and ai-art papers.
 | Deep Learning for Deepfakes Creation and Detection: A Survey | [arXiv](https://arxiv.org/pdf/1812.08685.pdf) |
 | Deepfake Detection: A Systematic Literature Review | [IEEEXplore](https://ieeexplore.ieee.org/document/9721302) |
 | Deep learning for deepfakes creation and detection: A survey | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001114) |
+| Some Questions Surrounding Robots and Rivers | [Art Papers](https://www.artpapers.org/some-questions-surrounding-robots-and-rivers/) |
+
 
 
 <br>
