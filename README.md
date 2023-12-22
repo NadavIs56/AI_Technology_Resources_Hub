@@ -57,6 +57,7 @@ A collection of open-source projects and code tutorials.
 | --------------- | ----------- | ---- |
 | Stable-Diffusion | Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney | [GitHub](https://github.com/FurkanGozukara/Stable-Diffusion) |
 | stable-diffusion-videos | Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts | [GitHub](https://github.com/nateraw/stable-diffusion-videos) |
+| How to Install & Use Stable Diffusion on Windows | In this step-by-step tutorial, learn how to download and run Stable Diffusion to generate images from text descriptions.  | [YouTube](https://www.youtube.com/watch?v=onmqbI5XPH8) |
 | Stable diffusion tutorial. ULTIMATE guide - everything you need to know! | In this tutorial I'll go through everything to get you started with #stablediffusion from installation to finished image. We'll talk about txt2img, img2img, prompting, sampling methods, inpainting, upscalers and more! Start using stable diffusion today and forget about midjourney and dalle2. | [YouTube](https://www.youtube.com/watch?v=DHaL56P6f5M) |
 
 
