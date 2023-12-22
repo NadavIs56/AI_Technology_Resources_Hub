@@ -36,3 +36,14 @@ A collection of open-source projects and code related to AI art technology.
 | --------------- | ----------- | ---- |
 | stable-diffusion-webui | Stable Diffusion web UI | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) |
 
+
+
+<br>
+
+### <p align ="center"> Do remember to star ⭐ the repository if you like what you see!</p>
+
+---
+
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/NadavIs56">Nadav Ishai</a>
+</div>
