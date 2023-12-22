@@ -36,6 +36,8 @@ A collection of open-source projects and code related to deep fake technology.
 | faceswap | Deepfakes Software For All | [GitHub](https://github.com/deepfakes/faceswap) |
 | DeepFaceLab | DeepFaceLab is the leading software for creating deepfakes. | [GitHub](https://github.com/iperov/DeepFaceLab) |
 | DeepNude-an-Image-to-Image-technology | DeepNude's algorithm and general image generation theory and practice research | [GitHub](https://github.com/yuanxiaosc/DeepNude-an-Image-to-Image-technology) |
+| SimSwap | An arbitrary face-swapping framework on images and videos with one single trained model! | [GitHub](https://github.com/neuralchen/SimSwap) |
+
 
 <br>
 
@@ -52,10 +54,15 @@ A collection of open-source projects and code related to AI art technology.
 | automatic | SD.Next: Advanced Implementation of Stable Diffusion | [GitHub](https://github.com/vladmandic/automatic) |
 
 
+<br>
 
+### Tutorials
+A collection of open-source projects, code, and tutorials.
 
-
-
+| Repository Name | Description | Link |
+| --------------- | ----------- | ---- |
+| Stable-Diffusion | Stable Diffusion, SDXL, LoRA Training, DreamBooth Training, Automatic1111 Web UI, DeepFake, Deep Fakes, TTS, Animation, Text To Video, Tutorials, Guides, Lectures, Courses, ComfyUI, Google Colab, RunPod, NoteBooks, ControlNet, TTS, Voice Cloning, AI, AI News, ML, ML News, News, Tech, Tech News, Kohya LoRA, Kandinsky 2, DeepFloyd IF, Midjourney | [GitHub](https://github.com/FurkanGozukara/Stable-Diffusion) |
+| stable-diffusion-videos | Create 🔥 videos with Stable Diffusion by exploring the latent space and morphing between text prompts | [GitHub (https://github.com/nateraw/stable-diffusion-videos) |
 
 
 
