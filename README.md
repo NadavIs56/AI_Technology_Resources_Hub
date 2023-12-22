@@ -73,6 +73,7 @@ A collection of open-source projects and code tutorials.
 | How to Install & Use Stable Diffusion on Windows | In this step-by-step tutorial, learn how to download and run Stable Diffusion to generate images from text descriptions.  | [YouTube](https://www.youtube.com/watch?v=onmqbI5XPH8) |
 | Stable diffusion tutorial. ULTIMATE guide - everything you need to know! | In this tutorial I'll go through everything to get you started with #stablediffusion from installation to finished image. We'll talk about txt2img, img2img, prompting, sampling methods, inpainting, upscalers and more! Start using stable diffusion today and forget about midjourney and dalle2. | [YouTube](https://www.youtube.com/watch?v=DHaL56P6f5M) |
 | Make Ai Influencer like Aitana Lopez - Ai Instagram Model | Make Ai Influencer like Aitana Lopez - Ai Instagram Model | [YouTube](https://www.youtube.com/watch?v=SXpoGTQF7fs) |
+| How To Make AI INFLUENCER In Minutes using Free AI Tools | Unlock the potential of AI in influencer marketing with our easy-to-follow guide. Learn step-by-step how to create your very own AI influencer using the cutting-edge tools of Adobe Firefly and GitHub's Fooocus AI.  | [YouTube](https://www.youtube.com/watch?v=s2KHTACU6es) |
 
 <br>
 
