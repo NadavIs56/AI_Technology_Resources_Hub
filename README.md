@@ -45,6 +45,20 @@ A collection of open-source projects and code related to AI art technology.
 | Repository Name | Description | Link |
 | --------------- | ----------- | ---- |
 | stable-diffusion-webui | Stable Diffusion web UI | [GitHub](https://github.com/AUTOMATIC1111/stable-diffusion-webui) |
+| InvokeAI | InvokeAI is a leading creative engine for Stable Diffusion models, empowering professionals, artists, and enthusiasts to generate and create visual media using the latest AI-driven technologies. | [GitHub](https://github.com/invoke-ai/InvokeAI) |
+| stable-diffusion-webui-colab | stable diffusion webui colab | [GitHub](https://github.com/camenduru/stable-diffusion-webui-colab) |
+| MidJourney-Styles-and-Keywords-Reference | A reference containing Styles and Keywords that you can use with MidJourney AI. There are also pages showing resolution comparison, image weights, and much more! | [GitHub](https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference?tab=readme-ov-file) |
+| Auto-Photoshop-StableDiffusion-Plugin | A user-friendly plug-in that makes it easy to generate stable diffusion images inside Photoshop using either Automatic or ComfyUI as a backend. | [GitHub](https://github.com/AbdullahAlfaraj/Auto-Photoshop-StableDiffusion-Plugin) |
+
+
+
+
+
+
+
+
+
+
 
 
 
