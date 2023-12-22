@@ -20,7 +20,7 @@
 - [AI Art Resources](#ai-art-resources)
 - [Face Swap Resources](#face-swap-resources)
 
-<br><br>
+<br>
 
 # <ins> Deep Fake Resources </ins>
 A collection of open-source projects and code related to deep fake technology.
