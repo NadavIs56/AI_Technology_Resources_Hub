@@ -22,6 +22,7 @@
 - [Instagram AI Models](#instagram-ai-models)
 - [Tutorials](#tutorials)
 - [Papers](#papers)
+- [Contributing](#contributing)
 
 <br>
 
@@ -86,7 +87,10 @@ A collection of deep fake and ai-art papers.
 | Deep learning for deepfakes creation and detection: A survey | [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1077314222001114) |
 | Some Questions Surrounding Robots and Rivers | [Art Papers](https://www.artpapers.org/some-questions-surrounding-robots-and-rivers/) |
 
+<br>
 
+# Contributing
+We welcome contributions to this repository! If you know of an open-source project or resource related to the AI technologies listed above (or others we haven't included yet), please feel free to contribute by submitting a pull request or opening an issue with the details.
 
 <br>
 
