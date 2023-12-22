@@ -1,2 +1,2 @@
 # AI-Technology-Resources
-Explore AI Tech Hub, a curated collection of open-source code and resources focused on AI innovations like deep fakes, AI art, and face swapping. A go-to library for developers, researchers, and AI enthusiasts seeking cutting-edge tools and insights.
+Welcome to the AI Technology Resource Repository! This repository is dedicated to gathering and organizing open-source code and resources related to various AI technologies, including deep fakes, AI art, face swapping, and more. Our goal is to provide a comprehensive and easily accessible library for researchers, developers, and enthusiasts in the field of AI.
