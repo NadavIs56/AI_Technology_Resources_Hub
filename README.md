@@ -23,7 +23,7 @@
 
 <br>
 
-# <ins> Deep Fake Resources </ins>
+# Deep Fake Resources
 A collection of open-source projects and code related to deep fake technology.
 
 | Repository Name | Description | Link |
@@ -49,7 +49,7 @@ A collection of open-source projects and code related to AI art technology.
 
 <br>
 
-# <ins> Tutorials </ins>
+# Tutorials
 A collection of open-source projects, code, and tutorials.
 
 | Repository Name | Description | Link |
@@ -60,7 +60,7 @@ A collection of open-source projects, code, and tutorials.
 
 <br>
 
-# <ins> Papers </ins>
+# Papers
 A collection of deep fake and ai-art papers.
 
 | Repository Name | Link |
