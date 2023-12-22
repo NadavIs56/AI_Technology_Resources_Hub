@@ -3,7 +3,7 @@
 
 
 ##  <p align ="center" height="40px" width="40px"> 🚧 Repository Under Development 🚧 </p>
-###  <p align ="center" height="40px" width="40px"> Note to Visitors: <br> Welcome to AI_Technology_Resources_Hub! Please be aware that this repository is currently under active development and is being continuously updated with new resources and information. Some sections may be incomplete or subject to change. We appreciate your interest and encourage you to check back regularly for new additions and updates. <br> Feel free to contribute or suggest improvements by opening issues or submitting pull requests. Your input and collaboration are highly valued as we work towards building a comprehensive and valuable resource! <br> Thank you for your understanding and support! </p>
+####  <p align ="center" height="40px" width="40px"> Note to Visitors: <br> Welcome to AI_Technology_Resources_Hub! Please be aware that this repository is currently under active development and is being continuously updated with new resources and information. Some sections may be incomplete or subject to change. We appreciate your interest and encourage you to check back regularly for new additions and updates. <br> Feel free to contribute or suggest improvements by opening issues or submitting pull requests. Your input and collaboration are highly valued as we work towards building a comprehensive and valuable resource! <br> Thank you for your understanding and support! </p>
 
 
 <br><br>
