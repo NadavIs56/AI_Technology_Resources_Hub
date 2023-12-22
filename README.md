@@ -35,7 +35,7 @@ A collection of open-source projects and code related to deep fake technology.
 
 <br>
 
-# <ins> AI Art Resources </ins>
+# AI Art Resources
 A collection of open-source projects and code related to AI art technology.
 
 | Repository Name | Description | Link |
